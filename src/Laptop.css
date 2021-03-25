@@ -1,0 +1,41 @@
+.portfolio-laptop-mockup .screen {
+    border: 1px solid #9c9c9c;
+    border-bottom: none;
+    width: 300px;
+    height: 180px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    position: relative;
+    left: 15px;
+  }
+  
+  .portfolio-laptop-mockup .screen .screen-content {
+    border: 1px solid #c5c5c5;
+    background-position: 50%;
+    background-size: cover;
+    height: 100%;
+  }
+  
+  .portfolio-laptop-mockup .keyboard {
+    width: 330px;
+    height: 10px;
+    border: 1px solid #9c9c9c;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background-color: #fff;
+  }
+  #laptopinside{
+      width: 278px;
+      height: 160px;
+  }
+  #paragraph{
+      text-align: right;
+      color: white;
+      font-size: 1rem;
+      opacity: .9;
+  }
+  #websiteproject{
+    text-align: right;
+      color: white;
+  }

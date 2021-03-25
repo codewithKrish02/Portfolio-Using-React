@@ -1,0 +1,18 @@
+.gradient{
+    background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+}
+li{
+    font-size: 17px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-weight: 600;
+}
+.navbar-brand{
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}

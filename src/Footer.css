@@ -1,0 +1,42 @@
+.page-footer {
+    padding-top: 35px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    padding-bottom: 20px;
+    display: block;
+  }
+  
+  .container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .page-footer .links{
+    display: inline-block;
+  }
+
+  .page-footer .links, .page-footer a {
+    display: inline-block;
+  }
+  
+  .page-footer a {
+    margin: 0 10px;
+    color: #282b2d;
+    font-size: 18px;
+  }
+  
+  a:hover {
+    color: #0075c1;
+    text-decoration: underline;
+  }
+  
+  a {
+    color: #0ea0ff;
+    text-decoration: none;
+    background-color: transparent;
+  }
+  
+  
+  

@@ -1,0 +1,21 @@
+.card-text{
+    color: #8e8e8e;
+}
+
+.special-skill-item .icon{
+    text-align: center;
+    font-size: 60px;
+    background-color: #0ea0ff;
+    color: #fff;
+    height: 70px;
+    width: 70px;
+    line-height: 55px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.card-body{
+    text-align: center;
+}
+.card-text{
+    font-size: 1rem;
+}

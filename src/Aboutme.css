@@ -1,0 +1,41 @@
+section{
+    margin-top: 90px;
+}
+img{
+    height: 300px;
+}
+.portfolio-block.block-intro {
+    text-align: center;
+  }
+
+.portfolio-block {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+#avatarimage {
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    border-radius: 100px;
+    margin-bottom: 30px;
+  }
+  
+  .portfolio-block.block-intro p {
+    font-size: 1.5em;
+    font-weight: 300;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    justify-content: center;
+  }
+  
+  .portfolio-block.block-intro {
+    text-align: center;
+  }
+  
+  
